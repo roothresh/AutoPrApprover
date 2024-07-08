@@ -1,0 +1,17 @@
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.csproj.AssemblyReference.cache
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.AssemblyInfoInputs.cache
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.AssemblyInfo.cs
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.csproj.CoreCompileInputs.cache
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\bin\Debug\net8.0\AutoPrApprover.exe
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\bin\Debug\net8.0\AutoPrApprover.deps.json
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\bin\Debug\net8.0\AutoPrApprover.runtimeconfig.json
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\bin\Debug\net8.0\AutoPrApprover.dll
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\bin\Debug\net8.0\AutoPrApprover.pdb
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrAp.43D786E0.Up2Date
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.dll
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\refint\AutoPrApprover.dll
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.pdb
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\AutoPrApprover.genruntimeconfig.cache
+C:\Users\Omer Aydin\source\repos\AutoPrApprover\AutoPrApprover\obj\Debug\net8.0\ref\AutoPrApprover.dll
